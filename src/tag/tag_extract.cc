@@ -17,15 +17,3 @@ TagExtractor::~TagExtractor() {
     label_pair.clear();
     idf.clear();
 }
-
-int main() {
-    string stopword_path = "";
-    string tags_path = "";
-    string label_path = "";
-    string label_pair_path = "";
-    string idf_path = "";
-    
-    
-    
-    return 0;
-}
